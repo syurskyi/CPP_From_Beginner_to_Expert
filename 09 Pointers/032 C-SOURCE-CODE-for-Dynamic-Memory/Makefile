@@ -1,3 +1,3 @@
 CC = c++
 app: Untitled1.cpp
-	$(CC) Untitled1.cpp -o build/Untitled1
+	$(CC) Untitled1.cpp -o Untitled1
